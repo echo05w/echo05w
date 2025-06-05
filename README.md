@@ -1,9 +1,21 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjh3dW0yMWY0d2dkdmp3OGZuMWVnYWJmbGwxZ2JtOTg2OGduZDlrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aTCa0tTwPzfig/giphy.gif" width="300" alt="Coding GIF"/>
-</p>
-
+<table>
+  <tr>
+    <td width="60%">
+      
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning C++ and Typescript<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on<br>
+👯 I’m looking to collaborate on<br>
+🤝 I’m looking for help with<br>
+🌱 I’m currently learning C++ and Typescript<br>
+💬 Ask me about<br>
+⚡ Fun fact
+
+   </td>
+    <td align="center">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjh3dW0yMWY0d2dkdmp3OGZuMWVnYWJmbGwxZ2JtOTg2OGduZDlrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aTCa0tTwPzfig/giphy.gif" width="200" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/echo05w)
@@ -26,6 +38,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=echo05w&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">Welcome to my GitHub! 💻✨</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center">Welcome to my GitHub! 💻✨</p>
