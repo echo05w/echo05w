@@ -8,6 +8,7 @@
 🤝 I’m looking for help with<br>
 🌱 I’m currently learning C++ and Typescript<br>
 💬 Ask me about<br>
+✈️ Feel free to contact me on Telegram: [t.me/yourusername](https://t.me/yourusername)
 ⚡ Fun fact
 
    </td>
